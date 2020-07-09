@@ -1,8 +1,8 @@
 # Anderson Braz
 
-## Hi 👋, 
-I'm Anderson, I'm a Software Developer :white_check_mark: who is passionate about development technologies and its entire ecosystem. 
+## Oi 👋, 
+Eu sou o Braz, sou desenvolvedor de software e muito apaixonado por tecnologia e todo este ecosistema. 
 
-- :footprints: I’m currently learning Data Science, Cloud, DevOps and of course JS improvments
+- :footprints: Atualmente estou numa busca incessante em Data Science, Cloud Services, DevOps e Javascript Code.
 
-"I love write code and build solutions." 
+"Costumo dizer que: Eu amo escrever código e construir soluções." 
