@@ -3,6 +3,6 @@
 ## Oi 👋, 
 Eu sou o Braz, sou desenvolvedor de software e muito apaixonado por tecnologia e todo este ecosistema. 
 
-- :footprints: Atualmente estou numa busca incessante em Data Science, Cloud Services, DevOps e Javascript Code.
+- :footprints: Atualmente estou numa busca incessante de conhecimento e qualificação em Data Science, Cloud Services, DevOps e Javascript Code.
 
 "Costumo dizer que: Eu amo escrever código e construir soluções." 
