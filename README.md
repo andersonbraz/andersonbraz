@@ -4,4 +4,4 @@
 
 - Atualmente estou numa busca incessante de conhecimento e qualificação em Data Science, Cloud Services, DevOps e Javascript Code.
 
-- Costumo dizer que: "Eu amo escrever código e construir soluções." 
+- Costumo dizer que: "Eu amo escrever códigos e construir soluções." 
