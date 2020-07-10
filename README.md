@@ -1,7 +1,7 @@
 # Anderson Braz
 
-Eu sou o Braz, sou desenvolvedor de software e muito apaixonado por tecnologia e todo este ecossistema. 
+- Eu sou o Braz, sou desenvolvedor de software e muito apaixonado por tecnologia e todo este ecossistema. 
 
-Atualmente estou numa busca incessante de conhecimento e qualificação em Data Science, Cloud Services, DevOps e Javascript Code.
+- Atualmente estou numa busca incessante de conhecimento e qualificação em Data Science, Cloud Services, DevOps e Javascript Code.
 
-"Costumo dizer que: Eu amo escrever código e construir soluções." 
+- Costumo dizer que: "Eu amo escrever código e construir soluções." 
