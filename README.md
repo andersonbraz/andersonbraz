@@ -3,7 +3,7 @@
 	<br>
 	<br>
 	<br>
-	<img src="https://enterprise.github.com/assets/spinners/octocat-spinner-128-26a44333917854c6794d55eac947b1277fced54f1f60c5df5d93431db8753bc5.gif" width="40" height="40">
+	<img src="https://media-exp1.licdn.com/dms/image/C5616AQHoEe9Wl2Az3Q/profile-displaybackgroundimage-shrink_200_800/0?e=1600300800&v=beta&t=x99dM3C1Uyr-RX2_Isyn7ExhNywAGf7LPtuKCPy6lCc">
 	<p>Loading</p>
 	<br>
 	<br>
